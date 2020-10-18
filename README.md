@@ -34,3 +34,5 @@ Click on [Files menu](https://TheAlgorithms.github.io/C-Plus-Plus/files.html) to
 ## Contributions
 
 As a community developed and maintained repository, we welcome new un-plagiarized quality contributions. Please read our [Contribution Guidelines](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/CONTRIBUTING.md).
+
+For hacktoberfest
